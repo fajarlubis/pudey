@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    background-color: #ded895;
+}
+
+#canvas
+{
+    background-color:#30c0df;
+    display: block;
+    margin: 0;
+    padding: auto;
+    width: 100%;
+}
